@@ -5,9 +5,6 @@
     "projectToken": "",
     "baseBranches": []
 
-
-
-
   },
   "scanSettingsSAST": {
     "enableScan": true,
@@ -15,6 +12,7 @@
     "incrementalScan": true,
     "baseBranches": [],
     "snippetSize": 10
+
 
   },
   "checkRunSettings": {
